@@ -10,5 +10,8 @@ public class First {
 		System.out.println(c);
 
 	}
+	public void m2() {
+		
+	}
 
 }
